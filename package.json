@@ -1,0 +1,23 @@
+{
+  "name": "testing_practice_jest_library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirwaisfarahi/testing_practice_jest_library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirwaisfarahi/testing_practice_jest_library/issues"
+  },
+  "homepage": "https://github.com/mirwaisfarahi/testing_practice_jest_library#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
